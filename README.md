@@ -60,8 +60,6 @@ Now your VS Code actually _uses_ the good config.
 - **Consistent environment** → Same config across all machines.
 - **Minimal effort, maximum coding** → Because tweaking settings is _not_ a hobby.
 
----
-
 ## **Contributing** 👨💻
 
 Found an extension that _everyone_ needs? Want to tweak some settings? PRs welcome!
